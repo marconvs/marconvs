@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
 # 💫 Sobre mim:
 👋 Salve, meu nome e Marco.<br>
 🔭 Tenho alguns projetos frontend
@@ -17,14 +15,15 @@
 ### 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marco-aur%C3%A9lio-neves-384b4a315/)
-[![Instagram](https://img.shields.io/badge/-TikTok-111111?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@_.sn0w__)
+[![TikTok](https://img.shields.io/badge/-TikTok-111111?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@_.sn0w__)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@sS%C3%B1%C3%B8w%E3%83%84)
+[![Discord](https://img.shields.io/badge/-Discord-5869E9?style=flat&logo=discord&logoColor=white)](https://discord.gg/DbDcZ3Bs)
 
 ### 🛠️ Skills
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-<!--![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<!--![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
