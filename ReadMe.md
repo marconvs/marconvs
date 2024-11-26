@@ -16,7 +16,7 @@
 
 ### 📫 Contact Me
 
-<i class="fa-brands fa-youtube"></i>(https://www.linkedin.com/in/marco-aur%C3%A9lio-neves-384b4a315/)
+[![Linkedin](https://www.linkedin.com/in/marco-aur%C3%A9lio-neves-384b4a315/)
 [![TikTok](https://www.tiktok.com/@_.sn0w__)
 [![YouTube](https://www.youtube.com/@sS%C3%B1%C3%B8w%E3%83%84)
 
