@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
 # 💫 Sobre mim:
 👋 Salve, meu nome e Marco.<br>
 🔭 Tenho alguns projetos frontend
@@ -14,7 +16,7 @@
 
 ### 📫 Contact Me
 
-[![LinkedIn](https://www.linkedin.com/in/marco-aur%C3%A9lio-neves-384b4a315/)
+<i class="fa-brands fa-youtube"></i>(https://www.linkedin.com/in/marco-aur%C3%A9lio-neves-384b4a315/)
 [![TikTok](https://www.tiktok.com/@_.sn0w__)
 [![YouTube](https://www.youtube.com/@sS%C3%B1%C3%B8w%E3%83%84)
 
