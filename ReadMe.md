@@ -16,14 +16,14 @@
 
 ### 📫 Contact Me
 
-[![Linkedin](https://www.linkedin.com/in/marco-aur%C3%A9lio-neves-384b4a315/)
-[![TikTok](https://www.tiktok.com/@_.sn0w__)
-[![YouTube](https://www.youtube.com/@sS%C3%B1%C3%B8w%E3%83%84)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marco-aur%C3%A9lio-neves-384b4a315/)
+[![Instagram](https://img.shields.io/badge/-TikTok-111111?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@_.sn0w__)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@sS%C3%B1%C3%B8w%E3%83%84)
 
 ### 🛠️ Skills
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<!--![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -33,7 +33,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) -->
 
 ### 🌟 Quote
 
